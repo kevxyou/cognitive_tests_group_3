@@ -1,1 +1,21 @@
 ===
+
+Visual Memory Test
+
+The visual memory test consists of images of shapes in different colours, arranged in grids.
+The grid will briefly display for the user to view, after which the image disappears.
+The user will need to answer a series of simple questions on the grids (e.g. which shape was red?).
+The test focuses on the short-term visual memory of the user.
+
+Getting Started
+
+Download all the files in the Memory_Test folder, including the images.
+Please make sure all the images and the code are in the same folder.
+Please do not rename any of the image files.
+Once in the ipynb file, please run all the blocks.
+
+Consent
+
+Please provide your consent to collect the data of your test results. 
+This will be entirely anonymous and the information is used for educational purposes.
+You will be able to provide your consent after the quiz is executed.
