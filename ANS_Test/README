@@ -1,1 +1,3 @@
-
+Approximate Number System (ANS) test.
+In each question, two non-overlapping circles will appear, each with a different number of dots inside it. This will be shown for 0.75 seconds and then return to showing 2 empty circles. The user then predicts the circle that had more dots by entering r (right) or l (left). Answers that take longer than 3 seconds are considered incorrect.
+To start the test, download the code and all the images posted in the "ANS_test" folder. Names of the images and the code must not be tampered with.
