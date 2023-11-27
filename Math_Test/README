@@ -4,7 +4,11 @@ This repository contains code developed to run a simple arithmetic test written 
 
 This test is written by Yuan Lee Student ID:22155945.
 
+Questions asked by the test can be altered to increase or decrease difficulty. Details on how to increase difficulty commented in program
+
+After running, the test will start with a small introduction to the structure of the test and ask for sex, the questions will the proceed
+and time taken and answer accuracy will be measured, if the participant gives permission the test will send the results to a google doc,
+where the resultsa can be visualised and analysed.
+
 Results of test will be recorded in google form: 
 https://docs.google.com/forms/d/e/1FAIpQLSeoPgA0CDrG8R55Z6bSmt5j3s0CR9kobdhmRp5mALF2mLdUsw/viewform?usp=sf_link
-
-Questions asked by the test can be altered to increase or decrease difficulty.
