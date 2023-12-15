@@ -5,6 +5,7 @@ Visual Memory Test
 The visual memory test consists of images of shapes in different colours, arranged in grids.
 The grid will briefly display for the user to view, after which the image disappears.
 The user will need to answer a series of simple questions on the grids (e.g. which shape was red?).
+The answers are provided as multiple choices. Click on the button for the correct answer of each question.
 The test focuses on the short-term visual memory of the user.
 
 Getting Started
@@ -13,6 +14,20 @@ Download all the files in the Memory_Test folder, including the images.
 Please make sure all the images and the code are in the same folder.
 Please do not rename any of the image files.
 Once in the ipynb file, please run all the blocks.
+
+Retaking The Test
+
+Please restart the entire kernel if you wish to retake the test.
+
+Anonymous ID
+
+Please generate an anonymous ID which we will ask for in the code.
+
+To generate an anonymous 4-letter unique user identifier please enter:
+- two letters based on the initials (first and last name) of a childhood friend
+- two letters based on the initials (first and last name) of a favourite actor / actress
+e.g. if your friend was called Charlie Brown and film star was Tom Cruise
+then your unique identifer would be CBTC
 
 Consent
 
