@@ -1,3 +1,8 @@
 Approximate Number System (ANS) test.
-In each question, two non-overlapping circles will appear, each with a different number of dots inside it. This will be shown for 0.75 seconds and then return to showing 2 empty circles. The user then predicts the circle that had more dots by entering r (right) or l (left). Answers that take longer than 3 seconds are considered incorrect.
-To start the test, download the code and all the images posted in the "ANS_test" folder. Names of the images and the code must not be tampered with.
+
+In each question, two non-overlapping circles will appear, each with a different number of dots inside. This will be shown for 0.75 seconds, after which two empty circles will be displayed.
+The user must then predict the circle that had more dots by selecting "Left" or "Right" using the buttons that will be displayed. Any answer that takes longer than 3 seconds will be considered incorrect.
+The test consists of three levels of 16 questions, totalling 48 questions. The score for each level and the overall test score will be displayed at the end of the test. 
+
+To start the test, select "Run" > "Run All Cells" from the menu in the "ANS_v2.ipynb" file. 
+
